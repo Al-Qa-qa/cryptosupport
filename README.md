@@ -24,7 +24,7 @@
     <a href="https://cryptosupport-interface.vercel.app/"><strong>View website »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Al-Qa-qa/cryptosupport">Smart Contract Repo</a>
+    <a href="https://github.com/Al-Qa-qa/cryptosupport-interface">Dapp Interface Repo</a>
     ·
     <a href="https://sepolia.etherscan.io/address/0x0faf013d30fc3704f1ecc7ad20b41722a844e4cf">Smart Contract Address</a>
     ·
