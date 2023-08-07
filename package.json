@@ -1,0 +1,26 @@
+{
+  "name": "fundme-smartcontract",
+  "version": "1.0.0",
+  "description": "Smart Contract for accepting funds from peaple and the apility to withdraw them",
+  "license": "MIT",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deployments/main.ts",
+    "test": "npx hardhat test ./test/unit/*.test.ts --network hardhat",
+    "test-staging": "npx hardhat test ./test/staging/*.staging.test.ts --network sepolia",
+    "coverage": "npx hardhat coverage",
+    "lint": "solhint 'contracts/*.sol'",
+    "lint:fix": "solhint 'contracts/**/*.sol' --fix",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@chainlink/contracts": "^0.6.1",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.1",
+    "solhint": "^3.4.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "path": "^0.12.7"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "hardhat": {
+    "MockV3Aggregator": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "FundMe": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+  },
+  "sepolia": {
+    "FundMe": "0x0fAF013d30FC3704F1ecC7Ad20b41722A844e4cF"
+  },
+  "localhost": {
+    "MockV3Aggregator": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "FundMe": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+  }
+}
