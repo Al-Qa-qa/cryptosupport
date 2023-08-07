@@ -28,7 +28,7 @@
     ·
     <a href="https://sepolia.etherscan.io/address/0x0faf013d30fc3704f1ecc7ad20b41722a844e4cf">Smart Contract Address</a>
     ·
-    <a href="https://github.com/Al-Qa-qa/cryptosupport-interface/issues">Request Bug</a>
+    <a href="https://github.com/Al-Qa-qa/cryptosupport/issues">Request Bug</a>
   </p>
 </div>
 
